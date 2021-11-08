@@ -1,1 +1,3 @@
 # JavaOrnekleri
+
+Bu alanda PatikaDev örnekleri çözümleri bulunmaktadır...
